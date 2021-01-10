@@ -1,5 +1,5 @@
 # playmaker_EN
-Statistics provided for (@playmaker_EN)[https://twitter.com/playmaker_EN]
+Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 
 # Tweets
