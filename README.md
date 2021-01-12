@@ -4,6 +4,24 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 12
+
+C'ship points ÷ Team market value (top half; 20/21):  
+
+- 1.6 points-per-million: BARNSLEY
+- 0.9 ppm: Preston
+- 0.8 ppm: Swansea
+- 0.7 ppm: Boro, Reading
+- 0.6 ppm: Blackburn
+- 0.5 ppm: Stoke, Bristol C, Brentford
+- 0.4 ppm: Norwich, Watford
+- 0.3 ppm: B'mouth  
+#COYR
+
+![](004.jpg)
+![](005.jpg)
+
+
 ## 2021 Jan 8
 Best #EFL shot conversion %s in 2020/21:
 
