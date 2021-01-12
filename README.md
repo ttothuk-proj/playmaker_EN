@@ -18,8 +18,8 @@ C'ship points ÷ Team market value (top half; 20/21):
 - 0.3 ppm: B'mouth  
 #COYR
 
-![](004.jpg)
-![](005.jpg)
+![](004.jpeg)
+![](005.jpeg)
 
 
 ## 2021 Jan 8
