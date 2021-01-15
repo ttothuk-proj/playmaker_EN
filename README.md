@@ -9,7 +9,7 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 Chart with upwards trend Most shots on target (top 4 tiers; 2020/21):
 
 - 133 : BLACKBURN
-- 123 Norwich
+- 123 : Norwich
 - 113 : Carlisle
 - 110 : Bournemouth
 - 109 : Salford
