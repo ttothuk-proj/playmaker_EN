@@ -4,6 +4,22 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 15
+
+Chart with upwards trend Most shots on target (top 4 tiers; 2020/21):
+
+-133 : BLACKBURN
+-123 Norwich
+-113 : Carlisle
+-110 : Bournemouth
+-109 : Salford
+-105 : Mansfield
+-103 : Crewe, Exeter
+
+#Rovers @Rovers
+
+![](006.jpg)
+
 ## 2021 Jan 12
 
 C'ship points ÷ Team market value (top half; 20/21):  
