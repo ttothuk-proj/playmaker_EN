@@ -4,6 +4,21 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 18
+Fewest shots on target faced in 2020/21 (#EFL):
+
+- 50: CARLISLE
+- 51: Sunderland
+- 59: Hull
+- 61: Blackpool, Doncaster
+- 63: Boro
+- 64: Watford, Portsmouth
+- 66: Cheltenham 
+- 67: Ipswich
+#cufc @officialcufc
+
+![](007.jpg)
+
 ## 2021 Jan 15
 
 Chart with upwards trend Most shots on target (top 4 tiers; 2020/21):
