@@ -4,6 +4,19 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 19
+
+Most league points dropped from winning positions (top 4 tiers; 2020/21):
+
+- 21: Right pointing backhand indexAFC WIMBLEDONLeft pointing backhand index
+- 16: Birmingham, Plymouth, Barrow, Mansfield
+- 15: Huddersfield, Cheltenham
+- 14: Rotherham, Sheff W, Burton, Exeter, Orient
+
+#PL #EFL #afcw
+
+![](008.jpg)
+
 ## 2021 Jan 18
 Fewest shots on target faced in 2020/21 (#EFL):
 
