@@ -27,7 +27,7 @@ Fewest shots on target faced in 2020/21 (#EFL):
 - 63: Boro
 - 64: Watford, Portsmouth
 - 66: Cheltenham 
-- 67: Ipswich
+- 67: Ipswich  
 #cufc @officialcufc
 
 ![](007.jpg)
