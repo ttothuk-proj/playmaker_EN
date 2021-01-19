@@ -8,12 +8,12 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 Most league points dropped from winning positions (top 4 tiers; 2020/21):
 
-- 21: Right pointing backhand indexAFC WIMBLEDONLeft pointing backhand index
+- 21: AFC WIMBLEDON*
 - 16: Birmingham, Plymouth, Barrow, Mansfield
 - 15: Huddersfield, Cheltenham
 - 14: Rotherham, Sheff W, Burton, Exeter, Orient
-
-#PL #EFL #afcw
+* led in all six of their L1 draws this season.  
+#EFL
 
 ![](008.jpg)
 
