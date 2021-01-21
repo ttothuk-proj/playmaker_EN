@@ -8,13 +8,13 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 Most completed nutmegs this season (Premier League):
 
-- 22: PeanutsLEEDS*Peanuts
+- 22: LEEDS*
 - 20: Everton
 - 17: Chelsea, Wolves
 - 16: Spurs
 - 14: Fulham, Leicester, Man C
 
-* Bamford x4; Ayling, Harrison x3; Alioski, Costa, Klich, Poveda, Raphinha x2; Phillips, Struijk x1  
+*Bamford x4; Ayling, Harrison x3; Alioski, Costa, Klich, Poveda, Raphinha x2; Phillips, Struijk x1  
 
 #LUFC @LUFC
 
