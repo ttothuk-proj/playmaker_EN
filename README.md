@@ -4,6 +4,38 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 21
+
+Most pressures* in 2020/21 (Premier League):
+
+- 357: Højbjerg
+- 348: McArthur
+- 346: Fernandes
+- 345: Mount
+- 334: Gallagher
+- 333: Klich
+- 329: Kanté
+- 326: SON
+
+* no. of times pressure applied to opposing player.
+
+#THFC #COYS 
+@LastWordOnSpurs
+
+![](011.jpg)
+
+## 2021 Jan 21
+
+Most completed nutmegs in 2020/21 (Premier League):
+
+- 6: Lookman, Pereira, Podence, Rashford, Richarlison
+- 5: Tielemans
+- 4: Bamford, Benrahma, Bernard, Cancelo, Eze, Mount, Neto, B Traoré, Zaha
+
+#FFC #WBA #Wolves #MUFC #EFC
+
+![](010.jpg)
+
 ## 2021 Jan 20
 
 Most completed nutmegs this season (Premier League):
