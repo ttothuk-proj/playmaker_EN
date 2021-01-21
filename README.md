@@ -4,6 +4,22 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 20
+
+Most completed nutmegs this season (Premier League):
+
+- 22: PeanutsLEEDS*Peanuts
+- 20: Everton
+- 17: Chelsea, Wolves
+- 16: Spurs
+- 14: Fulham, Leicester, Man C
+
+* Bamford x4; Ayling, Harrison x3; Alioski, Costa, Klich, Poveda, Raphinha x2; Phillips, Struijk x1  
+
+#LUFC @LUFC
+
+![](009.jpg)
+
 ## 2021 Jan 19
 
 Most league points dropped from winning positions (top 4 tiers; 2020/21):
