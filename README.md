@@ -17,7 +17,7 @@ Most pressures* in 2020/21 (Premier League):
 - 329: Kanté
 - 326: SON
 
-* no. of times pressure applied to opposing player.
+*no. of times pressure applied to opposing player.
 
 #THFC #COYS 
 @LastWordOnSpurs
