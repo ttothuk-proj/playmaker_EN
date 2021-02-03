@@ -4,6 +4,22 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Jan 29
+
+Dribbled past on FEWEST occasions in 2020/21 (top 4 tiers; 50+ tackles attempted):
+
+- 6: @CallumElder_ (89%*)
+- 7: Aaron Wan-Bissaka (89%), George Tanner (86%)
+- 8: Will Aimson (87%)
+- 9: Alex Woodyard (86%)
+
+* tackle success percentage
+
+#hcafc 
+@HullCity
+
+![](015.jpg)
+
 ## 2021 Jan 27
 
 Most productive #Championship trios (2020/21):
