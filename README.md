@@ -6,6 +6,24 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 ## 2021 Jan 29
 
+YOUNGEST average age of goal scorers in 20/21 (top 4 tiers):
+
+- 23.1: @LincolnCity_FC*
+- 23.3: Accrington
+- 23.7: Barnsley
+- 23.8: Blackburn
+- 23.9: Hull 
+- 24.0: Brentford
+- 24.1: Wolves
+
+*Ages of L1 scorers: 18, 19, 21, 22, 22, 23, 24, 24, 25, 26, 26, 27.  
+
+#ImpsAsOne
+
+![](016.jpg)
+
+## 2021 Jan 29
+
 Dribbled past on FEWEST occasions in 2020/21 (top 4 tiers; 50+ tackles attempted):
 
 - 6: @CallumElder_ (89%*)
