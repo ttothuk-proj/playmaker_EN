@@ -16,7 +16,7 @@ NOT conceded a league goal in first 10 minutes (top 4 tiers; 2020/21):
 
 #BHAFC #DCFC #ASFC #salop #WeAreSalford
 
-![](017.jpeg)
+![](/playmaker_EN-main/017.jpeg)
 
 ## 2021 Jan 29
 
