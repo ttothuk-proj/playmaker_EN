@@ -4,6 +4,20 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Feb 03
+
+NOT conceded a league goal in first 10 minutes (top 4 tiers; 2020/21):
+
+- Brighton
+- Derby
+- Accrington
+- Shrewsbury
+- Salford
+
+#BHAFC #DCFC #ASFC #salop #WeAreSalford
+
+![](017.jpeg)
+
 ## 2021 Jan 29
 
 YOUNGEST average age of goal scorers in 20/21 (top 4 tiers):
