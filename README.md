@@ -13,7 +13,7 @@ Dribbled past on FEWEST occasions in 2020/21 (top 4 tiers; 50+ tackles attempted
 - 8: Will Aimson (87%)
 - 9: Alex Woodyard (86%)
 
-* tackle success percentage
+*tackle success percentage
 
 #hcafc 
 @HullCity
