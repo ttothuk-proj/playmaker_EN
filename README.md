@@ -6,6 +6,19 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 ## 2021 Jan 27
 
+Most productive #Championship trios (2020/21):
+
+- 38: JOÃO + OLISE + MÉÏTÉ (#Royals)
+- 37: Armstrong + Elliott + Brereton (#Rovers)
+- 36: Toney + Mbeumo + Canós (#BrentfordFC)
+
+#efl 
+@ReadingFC
+
+![](014.jpg)
+
+## 2021 Jan 27
+
 Most productive trios in League One (20/21):
 
 - 36: CLARKE-HARRIS + DEMBÉLÉ + WARD (#pufc)
