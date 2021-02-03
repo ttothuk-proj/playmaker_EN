@@ -34,7 +34,7 @@ YOUNGEST average age of goal scorers in 20/21 (top 4 tiers):
 
 #ImpsAsOne
 
-![](016.jpg)
+![](/playmaker_EN-main/016.jpg)
 
 ## 2021 Jan 29
 
@@ -50,7 +50,7 @@ Dribbled past on FEWEST occasions in 2020/21 (top 4 tiers; 50+ tackles attempted
 #hcafc 
 @HullCity
 
-![](015.jpg)
+![](/playmaker_EN-main/015.jpg)
 
 ## 2021 Jan 27
 
@@ -63,7 +63,7 @@ Most productive #Championship trios (2020/21):
 #efl 
 @ReadingFC
 
-![](014.jpg)
+![](/playmaker_EN-main/014.jpg)
 
 ## 2021 Jan 27
 
@@ -77,7 +77,7 @@ Most productive trios in League One (20/21):
 #efl 
 @theposhofficial
 
-![](013.jpg)
+![](/playmaker_EN-main/013.jpg)
 
 ## 2021 Jan 27
 
@@ -92,7 +92,7 @@ Most productive trios in League Two (20/21):
 #EFL 
 @CambridgeUtdFC
 
-![](012.jpg)
+![](/playmaker_EN-main/012.jpg)
 
 ## 2021 Jan 21
 
@@ -112,7 +112,7 @@ Most pressures* in 2020/21 (Premier League):
 #THFC #COYS 
 @LastWordOnSpurs
 
-![](011.jpg)
+![](/playmaker_EN-main/011.jpg)
 
 ## 2021 Jan 21
 
@@ -124,7 +124,7 @@ Most completed nutmegs in 2020/21 (Premier League):
 
 #FFC #WBA #Wolves #MUFC #EFC
 
-![](010.jpg)
+![](/playmaker_EN-main/010.jpg)
 
 ## 2021 Jan 20
 
@@ -140,7 +140,7 @@ Most completed nutmegs this season (Premier League):
 
 #LUFC @LUFC
 
-![](009.jpg)
+![](/playmaker_EN-main/009.jpg)
 
 ## 2021 Jan 19
 
@@ -153,7 +153,7 @@ Most league points dropped from winning positions (top 4 tiers; 2020/21):
 * led in all six of their L1 draws this season.  
 #EFL
 
-![](008.jpg)
+![](/playmaker_EN-main/008.jpg)
 
 ## 2021 Jan 18
 Fewest shots on target faced in 2020/21 (#EFL):
@@ -168,7 +168,7 @@ Fewest shots on target faced in 2020/21 (#EFL):
 - 67: Ipswich  
 #cufc @officialcufc
 
-![](007.jpg)
+![](/playmaker_EN-main/007.jpg)
 
 ## 2021 Jan 15
 
@@ -184,7 +184,7 @@ Chart with upwards trend Most shots on target (top 4 tiers; 2020/21):
 
 #Rovers @Rovers
 
-![](006.jpg)
+![](/playmaker_EN-main/006.jpg)
 
 ## 2021 Jan 12
 
@@ -200,8 +200,8 @@ C'ship points ÷ Team market value (top half; 20/21):
 - 0.3 ppm: B'mouth  
 #COYR
 
-![](004.jpeg)
-![](005.jpeg)
+![](/playmaker_EN-main/004.jpeg)
+![](/playmaker_EN-main/005.jpeg)
 
 
 ## 2021 Jan 8
@@ -215,7 +215,7 @@ Best #EFL shot conversion %s in 2020/21:
 
 #ECFC @OfficialECFC 
 
-![](003.jpg)
+![](/playmaker_EN-main/003.jpg)
 
 
 ## 2021 Jan 7
@@ -229,7 +229,7 @@ Highest dribble success %s (top 4 tiers; 40+ total dribbles):
 
 #MKDons @MKDonsFC  
 
-![](002.jpg)
+![](/playmaker_EN-main/002.jpg)
 
 
 ## 2021 Jan 6
@@ -244,4 +244,4 @@ Highest % of tackles won in 2020/21 (#EFL; 35+ attempted):
 
 #hcafc #COYR #CamUTD #Swans #WeAreFGR  
 
-![](001.jpg)
+![](/playmaker_EN-main/001.jpg)
