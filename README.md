@@ -6,6 +6,20 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 ## 2021 Jan 27
 
+Most productive trios in League One (20/21):
+
+- 36: CLARKE-HARRIS + DEMBÉLÉ + WARD (#pufc)
+- 32: Marquis + Harness + Curtis (#Pompey)
+- 32: Honeyman + Magennis + Wilks (#HCAFC)
+- 30: Jephcott + Grant + Hardie (#PAFC)
+
+#efl 
+@theposhofficial
+
+![](013.jpg)
+
+## 2021 Jan 27
+
 Most productive trios in League Two (20/21):
 
 - 39: MULLIN + IRONSIDE + HOOLAHAN (#CamUTD)
