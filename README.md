@@ -4,6 +4,22 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN)
 
 # Tweets
 
+## 2021 Feb 10
+
+Most goal involvements from DEFENDERS (top 4 tiers; 2020/21):
+
+- 23: OXFORD (10G, 13A)*
+- 18: Chelsea (11G, 7A)
+- 16: West Ham (6G, 10A)
+- 16: Huddersfield (9G, 7A)  
+
+*Ruffels (4G, 4A), Long (3G, 4A), Moore (3G, 2A), Clare (3A)
+
+#OUFC 
+@OUFCOfficial
+![](/playmaker_EN-main/018.jpeg)
+
+
 ## 2021 Feb 03
 
 NOT conceded a league goal in first 10 minutes (top 4 tiers; 2020/21):
