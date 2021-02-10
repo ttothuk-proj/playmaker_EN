@@ -1,5 +1,5 @@
 # playmaker_EN
-Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN). The numbers are acquired from several different sites, including [fbref](fbref.com) and [WhoScored](whoscored.com) using Python and it's libraries such as Pandas or BeautifulSoup.
+Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN). The numbers are acquired from several different sites, including [fbref](https://fbref.com/en/) and [WhoScored](https://www.whoscored.com/) using Python and it's libraries such as Pandas or BeautifulSoup.
 
 
 # Tweets
