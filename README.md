@@ -4,6 +4,19 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN). The n
 
 # Tweets
 
+## 2021 Feb 19
+
+Highest dribble completion %s (2020/21; 50+ attempted):
+
+- 77%: TANGUY NDOMBELE
+- 70%: A-F Zambo Anguissa, Adama Traoré, Solly March
+- 69%: Dwight McNeil
+- 66%: Jordan Ayew, Jack Grealish
+
+#THFC #COYS 
+@LastWordOnSpurs
+![](/playmaker_EN-main/019.jpg)
+
 ## 2021 Feb 10
 
 Most goal involvements from DEFENDERS (top 4 tiers; 2020/21):
