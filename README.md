@@ -4,6 +4,54 @@ Statistics provided for [@playmaker_EN](https://twitter.com/playmaker_EN). The n
 
 # Tweets
 
+## 2021 Feb 26
+
+MIDFIELDS involved in most goals in 2020/21 (top 4 tiers):
+
+- 54: Collision symbolEXETER*Collision symbol
+- 49: Cardiff
+- 45: Rochdale, Oldham
+- 41: Man City, Brentford, Doncaster, Portsmouth
+- 40: Leicester, Sunderland
+
+* Jay, Randall, Taylor, Law, Collins, Key, Williams
+
+#ECFC 
+@OfficialECFC
+
+![](/playmaker_EN-main/021.jpeg)
+
+
+## 2021 Feb 24
+
+Under-performed most Squared vs xG (top 2 tiers; 20/21):
+
+- 14.1: Brighton (26 goals vs 40.1 xG)
+- 10.6: Forest (27 v 37.6)
+- 10.2: Sheff U (15 v 25.2)
+- 10: Fulham (21 v 31)
+- 9: Boro (37 v 46)
+- 8.6: Wycombe (23 v 31.6)
+- 8.5: QPR (30 v 38.5)
+- 8.3: Luton (24 v 32.3)
+
+![](/playmaker_EN-main/020.jpeg)
+
+## 2021 Feb 23
+
+Out-performed xG by most goals (top 2 tiers; 20/21):
+
+- 6.9: Man Utd (53 goals vs 46.1 xG)
+- 6.4: Brentford (56 v 49.6)
+- 6.1: Cardiff (46 v 39.9)
+- 5.9: Swansea (37 v 31.1)
+- 5.3: Soton (31 v 25.7)
+- 5.2: Everton (37 v 31.8)
+- 4.9: Reading (44 v 39.1)
+- 4.7: Palace (29 v 24.3)
+
+![](/playmaker_EN-main/022.jpeg)
+
 ## 2021 Feb 19
 
 Highest dribble completion %s (2020/21; 50+ attempted):
